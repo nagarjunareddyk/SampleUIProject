@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{453BC2FA-BF29-4ACA-965D-212C115F1DD5}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SampleUITest" expanded="True">
+            <Node name="SampleUITest.UITests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SampleUITest.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E3262F8C-2CB9-400B-9AEF-2D927659D84F">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.SampleUITest.iOS>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../../BitBucketForms/XamarinForms/Cerillion/BusinessLayer/RefreshManager.cs" line="56" offsetX="921" offsetY="825" expression="lastRefreshDateTime.CompareTo(DateTime.Now.Subtract(new TimeSpan(0, 0, refreshTimeSecs)))" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.SampleUITest.UITests FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SampleUITest.Droid PreferredExecutionTarget="Android.520071a7ee303529" FirstBuild="True" />
+</Properties>
